@@ -2,5 +2,5 @@ This repository is meant to hold and display all of the miscellaneous major proj
 
 This repository includes the following projects with their respective course and languages involved in writing them. 
 
--"Battleship" | System and Networking [CSCI 3342] | Java
+-"Battleship" | System & Network Programming [CSCI 3342] | Java
 
